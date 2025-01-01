@@ -61,11 +61,11 @@ By leveraging advanced data analytics and machine learning, the goal is to ident
 ## 📋 Key Findings
 
 - **Price Sensitivity**: Changes in pricing have limited influence on churn.\n
-- **Consumption Patterns**: Deviations in usage trends are the strongest indicators of churn.\n
-- **Tenure and Cohorts**: Early onboarding strategies are crucial, as newer customers exhibit higher churn rates.\n
+- **Consumption Patterns**: Deviations in usage trends are the strongest indicators of churn.
+- **Tenure and Cohorts**: Early onboarding strategies are crucial, as newer customers exhibit higher churn rates.
 - **Class Imbalance**: Addressing imbalanced datasets is critical for improving model performance.
 
-**Refer Document**:[PowerCo Analysis Report.pdf](https://github.com/user-attachments/files/18284824/PowerCo.Analysis.Report.pdf)
+**Refer Document**: 📄 **[PowerCo Analysis Report.pdf](https://github.com/user-attachments/files/18284824/PowerCo.Analysis.Report.pdf)**
 
 
 ---
