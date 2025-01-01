@@ -1,6 +1,6 @@
 # 🧾 PowerCo Customer Churn Analysis
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](#)  [![Platform](https://img.shields.io/badge/Platform-Jupyter-orange.svg)](#)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) (https://opensource.org/licenses/MIT) [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](#)  [![Platform](https://img.shields.io/badge/Platform-Jupyter-orange.svg)](#)
 
 ---
 
@@ -126,3 +126,14 @@ jupyter notebook
 - **Model Enhancements**: Address class imbalance using SMOTE or cost-sensitive learning.
 
 ---
+
+## 🏆 Contributions
+
+Contributions, issues, and feature requests are welcome! Feel free to fork the repository and make improvements.
+
+---
+
+## 📧 Contact
+
+- **Author**: Mohammad Adnan
+- **Email**: adnan.bava123@gmail.com
