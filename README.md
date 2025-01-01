@@ -25,7 +25,7 @@ By leveraging advanced data analytics and machine learning, the goal is to ident
 ## 📊 Methodology
 
 ### 1. **Exploratory Data Analysis (EDA)**
-- **Dataset**: Includes customer data on pricing, consumption, contract details, and churn.\n
+- **Dataset**: Includes customer data on pricing, consumption, contract details, and churn.
 - **Steps**:
   - Checked for missing and duplicate values, ensuring data integrity.
   - Analyzed distributions, outliers, and variable correlations.
@@ -42,10 +42,10 @@ By leveraging advanced data analytics and machine learning, the goal is to ident
   - Other factors, such as customer engagement and satisfaction, likely play a more critical role.
 
 ### 3. **Feature Engineering**
-- Created meaningful features to improve model accuracy:\n
-  - **Price Difference Metrics**: Captured changes in pricing across periods.\n
-  - **Consumption Deviations**: Measured unusual consumption patterns.\n
-  - **Customer Tenure**: Derived loyalty insights.\n
+- Created meaningful features to improve model accuracy:
+  - **Price Difference Metrics**: Captured changes in pricing across periods.
+  - **Consumption Deviations**: Measured unusual consumption patterns.
+  - **Customer Tenure**: Derived loyalty insights.
   - **Categorical Encoding**: Converted non-numerical variables for compatibility with machine learning models.
 
 ### 4. **Model Development**
@@ -77,17 +77,17 @@ By leveraging advanced data analytics and machine learning, the goal is to ident
 - 📄 **[PowerCo Analysis Report.pdf](https://github.com/user-attachments/files/18284824/PowerCo.Analysis.Report.pdf)**: Detailed analysis and recommendations.
 
 ### **2. Code & Notebooks**
-- 📂 **`notebooks/`**: Jupyter notebooks for analysis and modeling.\n
-  - `data_exploration.ipynb`: Comprehensive EDA.\n
-  - `feature_engineering.ipynb`: Advanced feature creation.\n
-  - `model_building.ipynb`: Model training, evaluation, and hyperparameter tuning.
+- 📂 **`notebooks/`**: Jupyter notebooks for analysis and modeling.
+  - `EDA_of_PowerCo.ipynb`: Comprehensive EDA.
+  - `FE_and_model.ipynb`: Advanced feature creation and Model training, evaluation, and hyperparameter tuning.
+ 
 
 ### **3. Resources**
-- 📂 **`data/`**: Includes raw and processed datasets (restricted for privacy).\n
-- 📂 **`visualizations/`**: Charts and graphs from the analysis.
+- 📂 **`data/`**: Includes raw and processed datasets.
+
 
 ### **4. Documentation**
-- 📄 **`README.md`**: Project description and guide.\n
+- 📄 **`README.md`**: Project description and guide.
 - 📄 **`LICENSE`**: Licensing details.
 
 
